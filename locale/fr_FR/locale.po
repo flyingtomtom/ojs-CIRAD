@@ -240,7 +240,7 @@ msgid "submissions.queuedReview"
 msgstr "En évaluation"
 
 msgid "submissions.published"
-msgstr "Publiée"
+msgstr "Publié"
 
 msgid "submissions.initial"
 msgstr "Initiale"
